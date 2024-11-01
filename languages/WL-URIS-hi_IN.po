@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unlimited Responsive Image Sliders\n"
+"POT-Creation-Date: 2018-09-14 18:04+0530\n"
+"PO-Revision-Date: 2018-09-14 18:04+0530\n"
+"Last-Translator: Weblizar <lizarweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/WL_URIS_CPT.php:10 admin/WL_URIS_CPT.php:11
+#, fuzzy
+#| msgid "Add New Image Slider"
+msgid "Add New Slider"
+msgstr "नई छवि स्लाइडर जोड़ें"
+
+#: admin/WL_URIS_CPT.php:12
+msgid "Edit Image Slider"
+msgstr "संपादित छवि स्लाइडर"
+
+#: admin/WL_URIS_CPT.php:13
+msgid "New Image Slider"
+msgstr "नई छवि स्लाइडर"
+
+#: admin/WL_URIS_CPT.php:14
+msgid "View Image Slider"
+msgstr "छवि स्लाइडर देखें"
+
+#: admin/WL_URIS_CPT.php:15
+msgid "Search Image Slider"
+msgstr "छवि स्लाइडर खोजें"
+
+#: admin/WL_URIS_CPT.php:16
+msgid "No Image Slider found"
+msgstr "छवि स्लाइडर नहीं मिला"
+
+#: admin/WL_URIS_CPT.php:17
+msgid "No Image Slider Found in Trash"
+msgstr "कचरा पेटी में कोई छवि स्लाइडर नहीं मिला"
+
+#: admin/WL_URIS_CPT.php:18
+msgid "Parent Image Slider:"
+msgstr "जनक छवि स्लाइडर:"
+
+#: admin/WL_URIS_CPT.php:19
+msgid "All Image Sliders"
+msgstr "सभी छवि स्लाइडर"
+
+#: admin/WL_URIS_CPT.php:48
+msgid "UR Image Slider Title"
+msgstr "यू.आर. छवि स्लाइडर शीर्षक"
+
+#: admin/WL_URIS_CPT.php:49
+msgid "UR Image Slider Shortcode"
+msgstr "यू.आर. छवि स्लाइडर शोर्ट"
+
+#: admin/WL_URIS_CPT.php:50
+msgid "Date"
+msgstr "तारीख"
+
+#: admin/WL_URIS_Metabox.php:6
+msgid "Add Images"
+msgstr "छवियां जोड़ें"
+
+#: admin/WL_URIS_Metabox.php:10
+#, fuzzy
+#| msgid "Slider Height"
+msgid "All Slider Settings"
+msgstr "स्लाइडर ऊंचाई"
+
+#: admin/WL_URIS_Metabox.php:14
+msgid "Copy Image Slider Shortcode"
+msgstr "कॉपी छवि स्लाइडर शोर्ट करें"
+
+#: admin/WL_URIS_Metabox.php:169 admin/WL_URIS_Metabox.php:336
+msgid "Slide Title"
+msgstr "शीर्षक स्लाइड"
+
+#: admin/WL_URIS_Metabox.php:172
+msgid "Enter Slide Title"
+msgstr "शीर्षक स्लाइड दर्ज करें"
+
+#: admin/WL_URIS_Metabox.php:176
+msgid "Slide Descriptions"
+msgstr "स्लाइड विवरण"
+
+#: admin/WL_URIS_Metabox.php:178
+msgid "Enter Slide Description"
+msgstr "स्लाइड विवरण दर्ज करें"
+
+#: admin/WL_URIS_Metabox.php:183 admin/WL_URIS_Metabox.php:204 admin/WL_URIS_Metabox.php:348
+msgid "Advance Editor"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:224
+#, fuzzy
+#| msgid "Contain"
+msgid "Continue"
+msgstr "समाविष्ट"
+
+#: admin/WL_URIS_Metabox.php:226
+msgid "Exit"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:238
+msgid "Add New Images"
+msgstr "नई छवियाँ जोड़ें"
+
+#: admin/WL_URIS_Metabox.php:242
+msgid "Delete All Images"
+msgstr "सभी छवियां हटाएं"
+
+#: admin/WL_URIS_Metabox.php:311
+msgid "Use below shortcode in any Page/Post to publish your slider"
+msgstr "किसी भी पोस्ट पेज में अपने स्लाइडर प्रकाशित करने के लिए नीचे कोडशोर्ट का प्रयोग करें"
+
+#: admin/WL_URIS_Metabox.php:338
+msgid "Enter Slide Title Here"
+msgstr "यहाँ स्लाइड शीर्षक दर्ज करें"
+
+#: admin/WL_URIS_Metabox.php:342
+msgid "Slide Description"
+msgstr "स्लाइड विवरण"
+
+#: admin/WL_URIS_Metabox.php:344
+msgid "Enter Slide Description Here"
+msgstr "यहाँ स्लाइड विवरण दर्ज करें"
+
+#: admin/inc/metabox_settings.php:273
+msgid "Title Setting"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:275
+#, fuzzy
+#| msgid "Slider Height"
+msgid "Slide Setting"
+msgstr "स्लाइडर ऊंचाई"
+
+#: admin/inc/metabox_settings.php:277
+#, fuzzy
+#| msgid "Thumbnail Style"
+msgid "Thumbnail Setting"
+msgstr "थंबनेल शैली"
+
+#: admin/inc/metabox_settings.php:279
+#, fuzzy
+#| msgid "Navigation Color"
+msgid "Naviagation Setting"
+msgstr "नेविगेशन रंग"
+
+#: admin/inc/metabox_settings.php:281
+msgid "Fonts & CSS Setting"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:287
+#, fuzzy
+#| msgid "Slide Title"
+msgid "Set Slide Title As"
+msgstr "शीर्षक स्लाइड"
+
+#: admin/inc/metabox_settings.php:293
+#, fuzzy
+#| msgid "Custom"
+msgid "Custom Title"
+msgstr "बनाइए"
+
+#: admin/inc/metabox_settings.php:300
+msgid "File Title (Slide Title as a image file name)"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:308
+#, fuzzy
+#| msgid "Select Yes/No option to show/hide slide title above slider"
+msgid "Select Custom/File option to set slide title as above slider"
+msgstr "शीर्षक को दिखाने के लिए हां / नहीं विकल्प का करे"
+
+#: admin/inc/metabox_settings.php:315
+msgid "Display Slider Title"
+msgstr "स्लाइडर शीर्षक प्रदर्शन"
+
+#: admin/inc/metabox_settings.php:329
+msgid "Select Yes/No option to show/hide slide title above slider"
+msgstr "शीर्षक को दिखाने के लिए हां / नहीं विकल्प का करे"
+
+#: admin/inc/metabox_settings.php:336 admin/inc/tooltip.php:65
+msgid "Slide Title Color"
+msgstr "स्लाइड शीर्षक रंग"
+
+#: admin/inc/metabox_settings.php:346
+msgid "Select a color to set slide title color"
+msgstr "स्लाइड शीर्षक रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#: admin/inc/metabox_settings.php:347 admin/inc/metabox_settings.php:365
+#: admin/inc/metabox_settings.php:383 admin/inc/metabox_settings.php:401
+#: admin/inc/metabox_settings.php:580 admin/inc/metabox_settings.php:603
+#: admin/inc/metabox_settings.php:645 admin/inc/metabox_settings.php:681
+#: admin/inc/metabox_settings.php:779 admin/inc/metabox_settings.php:886
+#: admin/inc/metabox_settings.php:904
+msgid "Preview"
+msgstr "पूर्व दर्शन"
+
+#: admin/inc/metabox_settings.php:354 admin/inc/tooltip.php:70
+msgid "Slide Title Background Color"
+msgstr "स्लाइड शीर्षक पृष्ठभूमि रंग"
+
+#: admin/inc/metabox_settings.php:364
+msgid "Select a color to set slide title background color"
+msgstr "स्लाइड शीर्षक पृष्ठभूमि का रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#: admin/inc/metabox_settings.php:372 admin/inc/tooltip.php:75
+msgid "Slide Description Color"
+msgstr "स्लाइड विवरण रंग"
+
+#: admin/inc/metabox_settings.php:382
+msgid "Select a color to set slide description color"
+msgstr "स्लाइड के वर्णन का रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#: admin/inc/metabox_settings.php:390 admin/inc/tooltip.php:80
+msgid "Slide Description Background Color"
+msgstr "स्लाइड विवरण पृष्ठभूमि का रंग"
+
+#: admin/inc/metabox_settings.php:400
+msgid "Select a color to set slide description background color"
+msgstr "स्लाइड विवरण पृष्ठभूमि रंग सेट करने के लिए एक रंग का चयन करें"
+
+#: admin/inc/metabox_settings.php:411
+msgid "Auto Play Slide Show"
+msgstr "ऑटो प्ले स्लाइड शो"
+
+#: admin/inc/metabox_settings.php:417
+msgid "Yes"
+msgstr "हाँ"
+
+#: admin/inc/metabox_settings.php:424
+msgid "Yes with Stop on Mouse Hover"
+msgstr "हाँ mouseover पर रोक के साथ"
+
+#: admin/inc/metabox_settings.php:431
+msgid "No"
+msgstr "नहीं"
+
+#: admin/inc/metabox_settings.php:439
+msgid "Select Yes/No option to auto slide enable or disable into slider"
+msgstr "ऑटो स्लाइड करने के लिए हां / नहीं विकल्प का चयन करें"
+
+#: admin/inc/metabox_settings.php:446
+msgid "Slide Transition"
+msgstr "स्लाइड हस्तांतरण"
+
+#: admin/inc/metabox_settings.php:452
+msgid "Fade"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:460
+#, fuzzy
+#| msgid "Slide Title"
+msgid "Slide"
+msgstr "शीर्षक स्लाइड"
+
+#: admin/inc/metabox_settings.php:468
+msgid "Select a transition effect you want to apply on slides"
+msgstr "आप स्लाइड पर लागू करने के लिए एक हस्तांतरण प्रभाव का चयन करें"
+
+#: admin/inc/metabox_settings.php:475
+#, fuzzy
+#| msgid "Auto Play Slide Show"
+msgid "Autoplay Slider Speed"
+msgstr "ऑटो प्ले स्लाइड शो"
+
+#: admin/inc/metabox_settings.php:500
+#, fuzzy
+#| msgid "Set your desired transition speed of slides. Default width is 5000px"
+msgid "Set your desired slider speed of slides. Default speed is 5 Second"
+msgstr "स्लाइड्स के अपने वांछित संक्रमण गति सेट करें। डिफ़ॉल्ट चौड़ाई 5000px है"
+
+#: admin/inc/metabox_settings.php:508
+msgid "Slide Order"
+msgstr "स्लाइड आदेश"
+
+#: admin/inc/metabox_settings.php:515
+msgid "Ascending"
+msgstr "आरोही"
+
+#: admin/inc/metabox_settings.php:523
+msgid "Descending"
+msgstr "अवरोही"
+
+#: admin/inc/metabox_settings.php:531
+msgid "Random"
+msgstr "क्रमरहित"
+
+#: admin/inc/metabox_settings.php:539
+msgid "Select a slide order you want to apply on slides"
+msgstr "आप स्लाइड परलागू करने के लिए एक स्लाइड आदेश का चयन करें"
+
+#: admin/inc/metabox_settings.php:546 admin/inc/tooltip.php:60
+msgid "Slide Distance"
+msgstr "स्लाइड दूरी"
+
+#: admin/inc/metabox_settings.php:579
+msgid "Set a gap between all slides. Range 0 to 25"
+msgstr "सभी स्लाइड्स के बीच एक खाई सेट करें। रेंज 0-25"
+
+#: admin/inc/metabox_settings.php:587 admin/inc/tooltip.php:35
+msgid "Sliding Arrow"
+msgstr "तीर फिसलने"
+
+#: admin/inc/metabox_settings.php:601
+msgid "Select Yes/No option to show or hide arrows on mouse hover on slide"
+msgstr "स्लाइड पर माउस मंडराना पर तीर दिखाने या छिपाने के लिए हां / नहीं विकल्प का चयन करें"
+
+#: admin/inc/metabox_settings.php:610 admin/inc/tooltip.php:50
+msgid "Slider Width"
+msgstr "स्लाइडर चौड़ाई"
+
+#: admin/inc/metabox_settings.php:619
+msgid "100% Width"
+msgstr "100% चौड़ाई"
+
+#: admin/inc/metabox_settings.php:626
+msgid "Full Width"
+msgstr "पूरी चौड़ाई"
+
+#: admin/inc/metabox_settings.php:633 admin/inc/metabox_settings.php:669
+msgid "Custom"
+msgstr "बनाइए"
+
+#: admin/inc/metabox_settings.php:644
+msgid "Enter your desired width for slider. Default width is 1000px"
+msgstr "स्लाइडर के लिए अपने इच्छित चौड़ाई दर्ज करें। डिफ़ॉल्ट चौड़ाई 1000px है"
+
+#: admin/inc/metabox_settings.php:652 admin/inc/tooltip.php:55
+msgid "Slider Height"
+msgstr "स्लाइडर ऊंचाई"
+
+#: admin/inc/metabox_settings.php:661
+msgid "Auto Height"
+msgstr "ऑटो ऊँचाई"
+
+#: admin/inc/metabox_settings.php:680
+msgid "Enter your desired height for slider. Default height is 500px"
+msgstr "स्लाइडर के लिए अपने वांछित ऊंचाई दर्ज करें। तयशुदा ऊंचाई 500px है"
+
+#: admin/inc/metabox_settings.php:688
+msgid "Slide Scale Mode"
+msgstr "स्लाइड स्केल मोड"
+
+#: admin/inc/metabox_settings.php:698
+msgid "None"
+msgstr "कोई नहीं"
+
+#: admin/inc/metabox_settings.php:701
+msgid "Exact"
+msgstr "ठीक"
+
+#: admin/inc/metabox_settings.php:704
+msgid "Contain"
+msgstr "समाविष्ट"
+
+#: admin/inc/metabox_settings.php:707
+msgid "Cover"
+msgstr "आवरण"
+
+#: admin/inc/metabox_settings.php:711
+msgid "Select a slide scale mode for slide frame"
+msgstr "स्लाइड फ़्रेम के लिए एक स्लाइड स्केल मोड चुनें"
+
+#: admin/inc/metabox_settings.php:718
+msgid "Slide Auto Scale"
+msgstr "स्लाइड ऑटो स्केल"
+
+#: admin/inc/metabox_settings.php:732
+msgid "Select Yes/No option for slide auto scale"
+msgstr "स्लाइड ऑटो स्केल के लिए हां / कोई विकल्प चुनें"
+
+#: admin/inc/metabox_settings.php:739
+msgid "Full Screen Slide Show"
+msgstr "पूर्ण स्क्रीन स्लाइड शो"
+
+#: admin/inc/metabox_settings.php:753
+msgid "Select Yes/No option for full screen slide show"
+msgstr "पूर्ण स्क्रीन स्लाइड शो के लिए हां / नहीं विकल्प का चयन करें"
+
+#: admin/inc/metabox_settings.php:763 admin/inc/tooltip.php:40
+msgid "Show Thumbnail"
+msgstr "थंबनेल दिखाएँ"
+
+#: admin/inc/metabox_settings.php:777
+msgid "Select Yes/No option to show or hide thumbnail based navigation under slides"
+msgstr "थम्बनेल आधारित नेविगेशन दिखाने के लिए हां । नहीं विकल्प का चयन करें"
+
+#: admin/inc/metabox_settings.php:786
+msgid "Thumbnail Position"
+msgstr "थंबनेल स्थिति"
+
+#: admin/inc/metabox_settings.php:792
+msgid "Top"
+msgstr "ऊपर"
+
+#: admin/inc/metabox_settings.php:800
+msgid "Bottom"
+msgstr "नीचे"
+
+#: admin/inc/metabox_settings.php:809
+msgid "Select a thumbnail position to show above or below the slider"
+msgstr "स्लाइडर ऊपर या नीचे दिखाने के लिए एक थंबनेल स्थिति का चयन करें"
+
+#: admin/inc/metabox_settings.php:816
+msgid "Thumbnail Style"
+msgstr "थंबनेल शैली"
+
+#: admin/inc/metabox_settings.php:822
+msgid "Border"
+msgstr "सीमा"
+
+#: admin/inc/metabox_settings.php:829
+msgid "Pointer"
+msgstr "सूचक"
+
+#: admin/inc/metabox_settings.php:837
+msgid "Select a thumbnail style to apply on thumbnails"
+msgstr "थंबनेल पर लागू करने के लिए एक थंबनेल शैली का चयन करें"
+
+#: admin/inc/metabox_settings.php:844
+msgid "Thumbnail Resize"
+msgstr "थंबनेल आकार"
+
+#: admin/inc/metabox_settings.php:853
+msgid "Width"
+msgstr "चौड़ाई"
+
+#: admin/inc/metabox_settings.php:856
+msgid "Height"
+msgstr "ऊंचाई"
+
+#: admin/inc/metabox_settings.php:860
+msgid "Set custom thumbnail height & width according to you"
+msgstr "आप के अनुसार कस्टम थंबनेल लम्बाई और चौड़ाई सेट करें"
+
+#: admin/inc/metabox_settings.php:870 admin/inc/tooltip.php:45
+msgid "Show Navigation Bullets"
+msgstr "नेविगेशन बुलेट दिखाएँ"
+
+#: admin/inc/metabox_settings.php:884
+msgid "Select Yes/No option to show or hide slider navigation buttons under image slider"
+msgstr "छवि स्लाइडर के तहत स्लाइडर नेविगेशन बटन दिखाने या छिपाने के लिए हां / नहीं विकल्प का चयन करें"
+
+#: admin/inc/metabox_settings.php:893 admin/inc/tooltip.php:85
+msgid "Navigation Color"
+msgstr "नेविगेशन रंग"
+
+#: admin/inc/metabox_settings.php:903
+msgid "Select a color to set navigation arrow and fullscreen icon color"
+msgstr "नेविगेशन तीर और फुलस्क्रीन आइकन रंग सेट करने के लिए एक रंग चुनें"
+
+#: admin/inc/metabox_settings.php:911
+msgid "Navigation Bullets Color"
+msgstr "नेविगेशन रंग"
+
+#: admin/inc/metabox_settings.php:921
+msgid "Select a color to set navigation bullets color"
+msgstr "स्लाइड शीर्षक रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#: admin/inc/metabox_settings.php:927
+msgid "Navigation Pointer Color"
+msgstr "नेविगेशन पॉइंटर रंग"
+
+#: admin/inc/metabox_settings.php:937
+msgid "Select a color to set navigation pointer color"
+msgstr "नेविगेशन सूचक रंग सेट करने के लिए एक रंग चुनें"
+
+#: admin/inc/metabox_settings.php:946
+msgid "Font Style"
+msgstr "फ़ॉन्ट शैली"
+
+#: admin/inc/metabox_settings.php:996
+msgid "Choose a caption font style"
+msgstr "एक शीर्षक फ़ॉन्ट शैली चुनें"
+
+#: admin/inc/metabox_settings.php:1002
+msgid "Custom CSS"
+msgstr "कस्टम सीएसएस"
+
+#: admin/inc/metabox_settings.php:1011
+msgid "Enter any custom css you want to apply on this slider into textarea filed"
+msgstr "कोई भी कस्टम सीएसएस दर्ज करें जो इस स्लाइडर पर लागू करना चाहते हैं"
+
+#: admin/inc/metabox_settings.php:1014
+msgid "Note: Please Do Not Use Style Tag With Custom CSS"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Apply Setting On Ultimate Responsive Image Slider"
+#~ msgid "Apply Setting On Unlimited Responsive Image Sliders"
+#~ msgstr "छवि स्लाइडर पर अंतिम उत्तरदायी सेटिंग लागू करें"
+
+#~ msgid "Use Rich Text Editor"
+#~ msgstr "रिच टेक्स्ट एडिटर का उपयोग करें"
+
+#~ msgid "Configure Settings For Slider Shortcode"
+#~ msgstr "स्लाइडर शोर्ट लिए सेटिंग्स कॉन्फ़िगर"
+
+#~ msgid "More Details"
+#~ msgstr "अधिक जानकारी"
+
+#~ msgid "Install Now"
+#~ msgstr "अभी स्थापित करें"
+
+#~ msgid "Update Now"
+#~ msgstr "अभी अद्यतन करें"
+
+#~ msgid "Premium Editions"
+#~ msgstr "प्रीमियम संस्करण"
+
+#~ msgid "Visit Website"
+#~ msgstr "बेवसाइट देखना"
+
+#~ msgid "Last Updated:"
+#~ msgstr "आखरी अपडेट:"
+
+#~ msgid "Incompatible with your version of WordPress"
+#~ msgstr "वर्डप्रेस के अपने संस्करण के साथ असंगत"
+
+#~ msgid "Compatible with your version of WordPress"
+#~ msgstr "वर्डप्रेस के अपने संस्करण के साथ संगत"
+
+#~ msgid "Autoplay Transition Speed"
+#~ msgstr "ऑटोप्ले संक्रमण गति"
+
+#~ msgid "Note"
+#~ msgstr "नोट"
+
+#~ msgid "Please Do Not Use"
+#~ msgstr "उपयोग न करें"
+
+#~ msgid "Tag With Custom CSS"
+#~ msgstr "कस्टम सीएसएस के साथ टैग"
+
+#~ msgid "Red"
+#~ msgstr "लाल"
+
+#~ msgid "Blue"
+#~ msgstr "नीला"
+
+#~ msgid "Black"
+#~ msgstr "काला"
+
+#~ msgid "White"
+#~ msgstr "सफेद"
+
+#~ msgid ""
+#~ "Select a color to set navigation bullets color, pointer color, border color, navigation "
+#~ "arrow color"
+#~ msgstr ""
+#~ "नेविगेशन गोलियों रंग, सूचक रंग, सीमा रंग, नेविगेशन तीर रंग निर्धारित करने के लिए एक रंग का चयन करें"
+
+#~ msgid "Remove All Slides"
+#~ msgstr "सभी स्लाइड्स मिटायें"
+
+#~ msgid "Help and Support"
+#~ msgstr "मदद और समर्थन"

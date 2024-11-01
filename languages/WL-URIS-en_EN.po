@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unlimited Responsive Image Sliders\n"
+"POT-Creation-Date: 2018-09-14 18:03+0530\n"
+"PO-Revision-Date: 2018-09-14 18:04+0530\n"
+"Last-Translator: Weblizar <lizarweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/WL_URIS_CPT.php:10 admin/WL_URIS_CPT.php:11
+msgid "Add New Slider"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:12
+msgid "Edit Image Slider"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:13
+msgid "New Image Slider"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:14
+msgid "View Image Slider"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:15
+msgid "Search Image Slider"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:16
+msgid "No Image Slider found"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:17
+msgid "No Image Slider Found in Trash"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:18
+msgid "Parent Image Slider:"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:19
+msgid "All Image Sliders"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:48
+msgid "UR Image Slider Title"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:49
+msgid "UR Image Slider Shortcode"
+msgstr ""
+
+#: admin/WL_URIS_CPT.php:50
+msgid "Date"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:6
+msgid "Add Images"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:10
+msgid "All Slider Settings"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:14
+msgid "Copy Image Slider Shortcode"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:169 admin/WL_URIS_Metabox.php:336
+msgid "Slide Title"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:172
+msgid "Enter Slide Title"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:176
+msgid "Slide Descriptions"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:178
+msgid "Enter Slide Description"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:183 admin/WL_URIS_Metabox.php:204
+#: admin/WL_URIS_Metabox.php:348
+msgid "Advance Editor"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:224
+msgid "Continue"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:226
+msgid "Exit"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:238
+msgid "Add New Images"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:242
+msgid "Delete All Images"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:311
+msgid "Use below shortcode in any Page/Post to publish your slider"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:338
+msgid "Enter Slide Title Here"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:342
+msgid "Slide Description"
+msgstr ""
+
+#: admin/WL_URIS_Metabox.php:344
+msgid "Enter Slide Description Here"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:273
+msgid "Title Setting"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:275
+msgid "Slide Setting"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:277
+msgid "Thumbnail Setting"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:279
+msgid "Naviagation Setting"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:281
+msgid "Fonts & CSS Setting"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:287
+msgid "Set Slide Title As"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:293
+msgid "Custom Title"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:300
+msgid "File Title (Slide Title as a image file name)"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:308
+msgid "Select Custom/File option to set slide title as above slider"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:315
+msgid "Display Slider Title"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:329
+msgid "Select Yes/No option to show/hide slide title above slider"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:336 admin/inc/tooltip.php:65
+msgid "Slide Title Color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:346
+msgid "Select a color to set slide title color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:347 admin/inc/metabox_settings.php:365
+#: admin/inc/metabox_settings.php:383 admin/inc/metabox_settings.php:401
+#: admin/inc/metabox_settings.php:580 admin/inc/metabox_settings.php:603
+#: admin/inc/metabox_settings.php:645 admin/inc/metabox_settings.php:681
+#: admin/inc/metabox_settings.php:779 admin/inc/metabox_settings.php:886
+#: admin/inc/metabox_settings.php:904
+msgid "Preview"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:354 admin/inc/tooltip.php:70
+msgid "Slide Title Background Color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:364
+msgid "Select a color to set slide title background color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:372 admin/inc/tooltip.php:75
+msgid "Slide Description Color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:382
+msgid "Select a color to set slide description color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:390 admin/inc/tooltip.php:80
+msgid "Slide Description Background Color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:400
+msgid "Select a color to set slide description background color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:411
+msgid "Auto Play Slide Show"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:417
+msgid "Yes"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:424
+msgid "Yes with Stop on Mouse Hover"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:431
+msgid "No"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:439
+msgid "Select Yes/No option to auto slide enable or disable into slider"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:446
+msgid "Slide Transition"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:452
+msgid "Fade"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:460
+msgid "Slide"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:468
+msgid "Select a transition effect you want to apply on slides"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:475
+msgid "Autoplay Slider Speed"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:500
+msgid "Set your desired slider speed of slides. Default speed is 5 Second"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:508
+msgid "Slide Order"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:515
+msgid "Ascending"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:523
+msgid "Descending"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:531
+msgid "Random"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:539
+msgid "Select a slide order you want to apply on slides"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:546 admin/inc/tooltip.php:60
+msgid "Slide Distance"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:579
+msgid "Set a gap between all slides. Range 0 to 25"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:587 admin/inc/tooltip.php:35
+msgid "Sliding Arrow"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:601
+msgid "Select Yes/No option to show or hide arrows on mouse hover on slide"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:610 admin/inc/tooltip.php:50
+msgid "Slider Width"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:619
+msgid "100% Width"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:626
+msgid "Full Width"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:633 admin/inc/metabox_settings.php:669
+msgid "Custom"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:644
+msgid "Enter your desired width for slider. Default width is 1000px"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:652 admin/inc/tooltip.php:55
+msgid "Slider Height"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:661
+msgid "Auto Height"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:680
+msgid "Enter your desired height for slider. Default height is 500px"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:688
+msgid "Slide Scale Mode"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:698
+msgid "None"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:701
+msgid "Exact"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:704
+msgid "Contain"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:707
+msgid "Cover"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:711
+msgid "Select a slide scale mode for slide frame"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:718
+msgid "Slide Auto Scale"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:732
+msgid "Select Yes/No option for slide auto scale"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:739
+msgid "Full Screen Slide Show"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:753
+msgid "Select Yes/No option for full screen slide show"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:763 admin/inc/tooltip.php:40
+msgid "Show Thumbnail"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:777
+msgid ""
+"Select Yes/No option to show or hide thumbnail based navigation under slides"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:786
+msgid "Thumbnail Position"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:792
+msgid "Top"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:800
+msgid "Bottom"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:809
+msgid "Select a thumbnail position to show above or below the slider"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:816
+msgid "Thumbnail Style"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:822
+msgid "Border"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:829
+msgid "Pointer"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:837
+msgid "Select a thumbnail style to apply on thumbnails"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:844
+msgid "Thumbnail Resize"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:853
+msgid "Width"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:856
+msgid "Height"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:860
+msgid "Set custom thumbnail height & width according to you"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:870 admin/inc/tooltip.php:45
+msgid "Show Navigation Bullets"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:884
+msgid ""
+"Select Yes/No option to show or hide slider navigation buttons under image "
+"slider"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:893 admin/inc/tooltip.php:85
+msgid "Navigation Color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:903
+msgid "Select a color to set navigation arrow and fullscreen icon color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:911
+msgid "Navigation Bullets Color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:921
+msgid "Select a color to set navigation bullets color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:927
+msgid "Navigation Pointer Color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:937
+msgid "Select a color to set navigation pointer color"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:946
+msgid "Font Style"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:996
+msgid "Choose a caption font style"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:1002
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:1011
+msgid ""
+"Enter any custom css you want to apply on this slider into textarea filed"
+msgstr ""
+
+#: admin/inc/metabox_settings.php:1014
+msgid "Note: Please Do Not Use Style Tag With Custom CSS"
+msgstr ""
